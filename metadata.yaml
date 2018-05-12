@@ -1,0 +1,41 @@
+_repo: What-Answer-_15402
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dickinson, Anna E. (Anna Elizabeth)
+    alias: Dickinson, Anna Elizabeth
+    birthdate: 1842
+    deathdate: 1932
+    gutenberg_agent_id: '6036'
+    url: http://www.gutenberg.org/2009/agents/6036
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Elizabeth_Dickinson
+description: ''
+gutenberg_issued: '2005-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15402'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- African Americans --
+  Fiction'
+- !lcsh 'War stories'
+- !lcsh 'African Americans -- Fiction'
+- !lcsh 'Racially mixed people -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Racism -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Passing (Identity) -- Fiction'
+- !lcsh 'Draft Riot, New York, N.Y., 1863 -- Fiction'
+- !lcsh 'Philadelphia (Pa.) -- Fiction'
+- !lcsh 'Political fiction'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Interracial marriage -- Fiction'
+title: What Answer?
+url: http://www.gutenberg.org/ebooks/15402
